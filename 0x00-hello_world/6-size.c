@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+	printf("Size of a char: %lu byte(s)")
+	printf("Size of an int: %lu byte(s)")
+	printf("Size of a long int: %lu byte(s)")
+	printf("Size of a long long int: %lu byte(s)")
+	printf("Size of a float: %lu byte(s)")
+}
